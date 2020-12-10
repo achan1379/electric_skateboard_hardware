@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\cmklu\OneDrive\Documents\Hardware\Projects\BLE\esk8 remote\Remote\altium\remote\remote.PcbDoc
+Date         : 8/19/2020
+Time         : 1:17:04 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2366.106milsx5190.591mils
+    Components on board, 97
+count : 2

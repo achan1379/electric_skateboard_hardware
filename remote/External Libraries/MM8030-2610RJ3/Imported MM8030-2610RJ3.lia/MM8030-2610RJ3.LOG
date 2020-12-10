@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : MM8030-2610RJ3.LibPkg
+
+Section : C:\Users\cmklu\Documents\pcloud\Programming\Hardware\Projects\BLE\esk8 remote\Remote\altium\remote\External Libraries\MM8030-2610RJ3\MM8030-2610RJ3.lia
+    Section : PCB Library - MM8030-2610RJ3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MM8030-2610RJ3 On Line 142
+            Warning - 1 : Skipping Token attachedSymbol On Line 209
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MM8030-2610RJ3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token layerContents On Line 133
+        EndSection
+
+        Section : Generating SCH Library - MM8030-2610RJ3.SchLib
+        EndSection
+    EndSection
+EndSection

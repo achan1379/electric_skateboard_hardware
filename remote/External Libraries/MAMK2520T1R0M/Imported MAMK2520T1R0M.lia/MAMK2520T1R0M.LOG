@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : MAMK2520T1R0M.LibPkg
+
+Section : C:\Users\cmklu\OneDrive\Documents\Programming\Hardware\Projects\BLE\esk8 remote\Remote\altium\remote\External Libraries\MAMK2520T1R0M\MAMK2520T1R0M.lia
+    Section : PCB Library - MAMK2520T1R0M.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MAMK2520T1R0M On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 163
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MAMK2520T1R0M.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - MAMK2520T1R0M.SchLib
+        EndSection
+    EndSection
+EndSection

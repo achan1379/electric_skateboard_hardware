@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=remote.SchDoc
+Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=nRF52840|SchDesignator=nRF52840|FileName=nrf52840.SchDoc|SymbolType=Normal|RawFileName=nrf52840.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=Peripherals|SchDesignator=Peripherals|FileName=peripherals.SchDoc|SymbolType=Normal|RawFileName=peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=Power|SchDesignator=Power|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
